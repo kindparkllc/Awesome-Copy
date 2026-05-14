@@ -3,7 +3,7 @@
 The clipboard manager built for macOS power users.
 
 <p align="center">
-  <img src="images/screenshot.png" width="800">
+  <img src="images/icon.png" width="800">
 </p>
 
 ## Download
