@@ -1,3 +1,16 @@
+# Awesome Copy
+
+The clipboard manager built for macOS power users.
+
+<p align="center">
+  <img src="images/screenshot.png" width="800">
+</p>
+
+## Download
+
+Download the latest DMG from the Releases section.
+
+
 # Awesome Copy Releases
 
 Official release repository for Awesome Copy.
@@ -6,7 +19,7 @@ Official release repository for Awesome Copy.
 
 Visit the latest release to download the current macOS version of Awesome Copy:
 
-https://github.com/kindpark/awesome-copy-releases/releases/latest
+https://github.com/kindparkllc/awesome-copy-releases/releases/latest
 
 ## About Awesome Copy
 
