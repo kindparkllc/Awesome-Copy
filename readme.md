@@ -1,7 +1,4 @@
 # Awesome Copy
-
-The clipboard manager built for macOS power users.
-
 <p align="center">
   <img src="images/icon.png" width="300">
 </p>
