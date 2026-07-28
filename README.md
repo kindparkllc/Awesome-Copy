@@ -135,3 +135,7 @@ See [what's new in every update](https://awesomecopy.app/release-notes).
   <a href="https://www.reddit.com/r/awesomecopy">Reddit</a> &nbsp;·&nbsp;
   <a href="https://x.com/AwesomeCopyApp">X</a>
 </div>
+
+<p align="center">
+  <sub>☕ <a href="https://buymeacoffee.com/awesomecopy">Buy me a coffee</a></sub>
+</p>
